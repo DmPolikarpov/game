@@ -8,11 +8,11 @@ Install Pygame-1.9.4
 Open cmd and go to root of the project.
 Execute “python3 NLO.py”.
 # Screenshots of the game.
-![screenshot of sample](https://github.com/DmPolikarpov/game/tree/master/images/start_game.png)
-![screenshot of sample](https://github.com/DmPolikarpov/game/tree/master/images/game1.png)
-![screenshot of sample](https://github.com/DmPolikarpov/game/tree/master/images/game2.png)
-![screenshot of sample](https://github.com/DmPolikarpov/game/tree/master/images/game_over.png)
-![screenshot of sample](https://github.com/DmPolikarpov/game/tree/master/images/game_win.png)
+![screenshot of sample](https://github.com/DmPolikarpov/game/raw/master/images/start_game.png)
+![screenshot of sample](https://github.com/DmPolikarpov/game/raw/master/images/game1.png)
+![screenshot of sample](https://github.com/DmPolikarpov/game/raw/master/images/game2.png)
+![screenshot of sample](https://github.com/DmPolikarpov/game/raw/master/images/game_over.png)
+![screenshot of sample](https://github.com/DmPolikarpov/game/raw/master/images/game_win.png)
 
 
 
